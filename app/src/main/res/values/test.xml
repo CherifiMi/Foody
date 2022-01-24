@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <declare-styleable name="test">
+                <attr name="state_green" format="boolean"/>
+                <attr name="state_gray" format="boolean"/>
+        </declare-styleable>
+
+</resources>
