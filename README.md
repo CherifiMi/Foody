@@ -7,6 +7,7 @@ ___
 - using page handler to set a page tab view
 - using safe args
 - using data store to save the meal preferences 
+- using attrs to use dark theme and light theme
 
 ___
 ## Ui
