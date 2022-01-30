@@ -21,5 +21,5 @@ https://www.figma.com/file/mtCF10n9wphsv1JdKG00uQ/Ux-and-shi?node-id=231%3A252
 ___
 ## Final app
 
-<iframe width="560" height="315" src="https://youtu.be/YeREgQkY3aY"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=nGx-x0jrE2o"></iframe>
 
