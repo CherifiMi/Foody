@@ -12,9 +12,11 @@ ___
 
 ___
 ## Ui
-https://www.figma.com/file/mtCF10n9wphsv1JdKG00uQ/Ux-and-shi?node-id=231%3A252
-___
-## Final app
 <img width="1691" alt="Frame 1" src="https://user-images.githubusercontent.com/98290339/151686620-bee22409-d06c-4096-8c92-d1de2928001a.png">
 
 <img width="1691" alt="Frame 2" src="https://user-images.githubusercontent.com/98290339/151686504-45592422-206b-4fb8-81c2-68992486c3ad.png">
+https://www.figma.com/file/mtCF10n9wphsv1JdKG00uQ/Ux-and-shi?node-id=231%3A252
+___
+## Final app
+
+.
