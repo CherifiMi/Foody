@@ -48,14 +48,16 @@
     -the Bottom animated bar, made by [Shape Shifter](https://shapeshifter.design/) and the [Animated drawable](https://developer.android.com/guide/topics/graphics/drawable-animation)
 
 
-## Ui Made in [Figma](https://www.figma.com/file/mtCF10n9wphsv1JdKG00uQ/Ux-and-shi?node-id=231%3A252)
-
-<img width="800" alt="Frame 1" src="https://user-images.githubusercontent.com/98290339/151686620-bee22409-d06c-4096-8c92-d1de2928001a.png">
-
-<img width="800" alt="Frame 2" src="https://user-images.githubusercontent.com/98290339/151686504-45592422-206b-4fb8-81c2-68992486c3ad.png">
-
 
 ## Final app
+
+
+
+https://user-images.githubusercontent.com/98290339/152105439-4ecb4a21-fe25-4127-a700-171d1e7642c6.mp4
+
+
+https://user-images.githubusercontent.com/98290339/152105630-56a95e60-08c8-4b57-8cb8-9a1a55593ee8.mp4
+
 
 
 
@@ -73,5 +75,11 @@ Every recipe contains:
 - a summary of the food
 - the diet type: vegan, glutenFree ...
 - the meal type: drink, dessert ...
+
+## Ui Made in [Figma](https://www.figma.com/file/mtCF10n9wphsv1JdKG00uQ/Ux-and-shi?node-id=231%3A252)
+
+<img width="600" alt="Frame 1" src="https://user-images.githubusercontent.com/98290339/151686620-bee22409-d06c-4096-8c92-d1de2928001a.png">
+
+<img width="600" alt="Frame 2" src="https://user-images.githubusercontent.com/98290339/151686504-45592422-206b-4fb8-81c2-68992486c3ad.png">
 
 
