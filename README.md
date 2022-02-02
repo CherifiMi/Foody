@@ -78,7 +78,5 @@ Every recipe contains:
 
 ## Ui Made in [Figma](https://www.figma.com/file/mtCF10n9wphsv1JdKG00uQ/Ux-and-shi?node-id=231%3A252)
 
-<iframe src="https://www.figma.com/file/mtCF10n9wphsv1JdKG00uQ/Ux-and-shi?node-id=231%3A252" width="400" height="200"></iframe>
 
-![image](https://user-images.githubusercontent.com/98290339/152105953-c8f66e46-3027-46b4-b430-10d9978b64a6.png)
-
+<iframe src="https://www.figma.com/file/mtCF10n9wphsv1JdKG00uQ/Ux-and-shi?node-id=231%3A252" title="description"></iframe>
