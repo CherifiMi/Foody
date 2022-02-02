@@ -53,15 +53,15 @@
 
 ## Final app
 
-<center>
-  <video controls>
-    <source src="https://user-images.githubusercontent.com/98290339/152105439-4ecb4a21-fe25-4127-a700-171d1e7642c6.mp4" type="video/mp4" />
-  </video>
-</center>
+
+
+https://user-images.githubusercontent.com/98290339/152108945-091ff5ab-391e-4dbf-b0fd-44e15e521f4f.mp4
 
 
 
-https://user-images.githubusercontent.com/98290339/152105630-56a95e60-08c8-4b57-8cb8-9a1a55593ee8.mp4
+https://user-images.githubusercontent.com/98290339/152109033-f5fa549f-3c90-4dd1-857e-e8ddc0ed2732.mp4
+
+
 
 
 ## Architecture
