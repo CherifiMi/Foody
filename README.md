@@ -1,6 +1,7 @@
 # Foody
 ___
 ## What I learned
+- using Hilt
 - using retrofit to get data from "https://spoonacular.com/food-api"
 - use room database to save the favorite recipes 
 - using navigation control
