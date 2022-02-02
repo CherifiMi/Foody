@@ -7,6 +7,8 @@
 
 ![Ui](https://user-images.githubusercontent.com/98290339/152101155-f80f641f-1787-403c-a8b6-32b153af4c7b.png)
 
+#### Ui Made in [Figma](https://www.figma.com/file/mtCF10n9wphsv1JdKG00uQ/Ux-and-shi?node-id=231%3A252)
+
 
 ## Tech stack & Open-source libraries
 
@@ -51,14 +53,15 @@
 
 ## Final app
 
+<center>
+  <video controls>
+    <source src="https://user-images.githubusercontent.com/98290339/152105439-4ecb4a21-fe25-4127-a700-171d1e7642c6.mp4" type="video/mp4" />
+  </video>
+</center>
 
-
-https://user-images.githubusercontent.com/98290339/152105439-4ecb4a21-fe25-4127-a700-171d1e7642c6.mp4
 
 
 https://user-images.githubusercontent.com/98290339/152105630-56a95e60-08c8-4b57-8cb8-9a1a55593ee8.mp4
-
-
 
 
 ## Architecture
@@ -76,7 +79,5 @@ Every recipe contains:
 - the diet type: vegan, glutenFree ...
 - the meal type: drink, dessert ...
 
-## Ui Made in [Figma](https://www.figma.com/file/mtCF10n9wphsv1JdKG00uQ/Ux-and-shi?node-id=231%3A252)
 
 
-<iframe src="https://www.figma.com/file/mtCF10n9wphsv1JdKG00uQ/Ux-and-shi?node-id=231%3A252" title="description"></iframe>
