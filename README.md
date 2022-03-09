@@ -5,7 +5,8 @@
 </p>
 </br>
 
-![Ui](https://user-images.githubusercontent.com/98290339/152101155-f80f641f-1787-403c-a8b6-32b153af4c7b.png)
+<img width="1446" alt="foody" src="https://user-images.githubusercontent.com/98290339/157385747-5b0ce85f-be53-4a52-9d34-06f98c7ab75f.png">
+
 
 #### Ui Made in [Figma](https://www.figma.com/file/mtCF10n9wphsv1JdKG00uQ/Ux-and-shi?node-id=231%3A252)
 
@@ -53,11 +54,9 @@
 
 ## Final app
 
-
+![Ui](https://user-images.githubusercontent.com/98290339/152101155-f80f641f-1787-403c-a8b6-32b153af4c7b.png)
 
 https://user-images.githubusercontent.com/98290339/152108945-091ff5ab-391e-4dbf-b0fd-44e15e521f4f.mp4
-
-
 
 https://user-images.githubusercontent.com/98290339/152109033-f5fa549f-3c90-4dd1-857e-e8ddc0ed2732.mp4
 
