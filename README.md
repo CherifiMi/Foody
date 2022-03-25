@@ -5,10 +5,6 @@
 </p>
 </br>
 
-<iframe width="420" height="315"
-src="https://youtu.be/PcOE6AHr6JA">
-</iframe>
-
 
 
 
